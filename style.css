@@ -1,0 +1,40 @@
+/* 1. Parrafos azules con letra Verdana */
+
+p {
+color: blue;
+font-family: Verdana;
+}
+
+/* 2. Clase importante con fondo amarillo y negrita */
+
+.importante {
+background-color: yellow;
+font-weight: bold;
+}
+
+/* 3. ID especial con borde verde y espacio interior */
+
+#especial {
+border: 3px solid green;
+padding: 10px;
+}
+
+/* 4. Margenes para todos los elementos */
+
+* {
+margin: 10px;
+padding: 5px;
+}
+
+/* 5. Titulos rojos y centrados */
+
+h1, h2 {
+color: red;
+text-align: center;
+}
+
+/* 6. Parrafo importante de color morado */
+
+p.importante {
+color: #BC00FF;
+}
